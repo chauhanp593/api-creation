@@ -39,7 +39,7 @@ Contributions are welcome! If you find any issues or would like to add new featu
 
 #### Request Body
 
-The request body should be a JSON object with the following structure:
+The request body should be a JSON object with the following structure or you can use the test.json file from repo:
 
 ```json
 [{
